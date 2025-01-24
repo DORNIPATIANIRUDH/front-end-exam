@@ -3,7 +3,7 @@
 ```markdown
 # Frontend Assessment
 
-This repository contains the source code for the **Frontend Assessment** project. The application is deployed and live at [Frontend Assessment](https://frontendassessmentqest.netlify.app/). It showcases a web-based frontend solution demonstrating modern design principles and functionality.
+This repository contains the source code for the *Frontend Assessment* project. The application is deployed and live at [Frontend Assessment](https://frontendassessmentqest.netlify.app/). It showcases a web-based frontend solution demonstrating modern design principles and functionality.
 
 ---
 
@@ -14,18 +14,18 @@ Access the live version of the application here:
 ---
 
 ## 📋 Features
-- **Responsive Design:** The application is fully responsive and optimized for different screen sizes.
-- **Interactive UI:** User-friendly and dynamic interface with modern styling.
-- **Performance Optimized:** Lightweight and fast loading, with minimal resource usage.
-- **Cross-Browser Compatibility:** Works seamlessly across all modern browsers.
+- *Responsive Design:* The application is fully responsive and optimized for different screen sizes.
+- *Interactive UI:* User-friendly and dynamic interface with modern styling.
+- *Performance Optimized:* Lightweight and fast loading, with minimal resource usage.
+- *Cross-Browser Compatibility:* Works seamlessly across all modern browsers.
   
 ---
 
 ## 🛠️ Built With
-- **HTML5**: For semantic structure and content.
-- **CSS3**: For styling and layout.
-- **JavaScript**: For interactivity and logic.
-- **Netlify**: For seamless deployment and hosting.
+- *HTML5*: For semantic structure and content.
+- *CSS3*: For styling and layout.
+- *JavaScript*: For interactivity and logic.
+- *Netlify*: For seamless deployment and hosting.
 
 ---
 
@@ -86,7 +86,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## 📧 Contact
 For any questions or suggestions, feel free to reach out:  
-- **Email:** aniudh9dor6@gmail.com
+- **Email:** anirudh9dor6@gmail.com
 - **GitHub:** [DORNIPATIANIRUDH ](https://github.com/DORNIPATIANIRUDH)
 
 ---
