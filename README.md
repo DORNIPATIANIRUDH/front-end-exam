@@ -9,7 +9,7 @@ This repository contains the source code for the **Frontend Assessment** project
 
 ## 🚀 Live Demo
 Access the live version of the application here:  
-[https://frontendassessmentqest.netlify.app/](https://frontendassessmentqest.netlify.app/)
+[https://frontendassessmentqest.netlify.app/]
 
 ---
 
